@@ -19,3 +19,4 @@
 
 ### Links úteis
 - Link das badges: https://github.com/Ileriayo/markdown-badges
+- Aprendendo a criar readme profissa: https://www.youtube.com/watch?v=hTjG9pbKgyU e https://gist.github.com/devfraga/3a62ad0964ef4a671a3ea8d82a750b93
